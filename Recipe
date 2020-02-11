@@ -10,16 +10,17 @@
 
 <body>
 
+
 	<h2><b>Ingredients</b></h1>
 	
 	<div>
 
 	<ul type="disc">
-	    <li>Slice of American Cheese</li>
+		<li>Slice of American Cheese</li>
 
-		  <li>2 Bread Slices</li>
+		<li>2 Bread Slices</li>
 
-		  <li>1 stick of Butter</li>
+		<li>1 stick of Butter</li>
 	</ul>
 	
 	</div>
@@ -27,19 +28,19 @@
 	<h2><b>Directions</b></h1>
 	
 	<div>
-		  <p>1. Place 2 tablespoons of butter on a hot skillet to melt.</p>
+		<p>1. Place 2 tablespoons of butter on a hot skillet to melt.</p>
 
-		  <p>2. Place the 2 slices of bread on the hot skillet once the butter has begun to melt.</p>
+		<p>2. Place the 2 slices of bread on the hot skillet once the butter has begun to melt.</p>
 
-		   <p>3. Cook both sides of bread until golden brown.</p>
+		<p>3. Cook both sides of bread until golden brown.</p>
 
-		  <p>4. Add the slice of cheese to one of the bread slices.</p>
+		<p>4. Add the slice of cheese to one of the bread slices.</p>
 
-		  <p>5. Place the other slice of bread on top to form a sandwich.</p>
+		<p>5. Place the other slice of bread on top to form a sandwich.</p>
 
-		  <p>6. Heat until cheese melts. </p>
+		<p>6. Heat until cheese melts. </p>
 
-		  <p>7. Ready to eat!</p>
+		<p>7. Ready to eat!</p>
 	
 	</div>
 
